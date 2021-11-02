@@ -3,12 +3,16 @@
     <style>
       p {
           color: red;
+          text-align: center;
       }
     </style>
   </head>
   <body>
-    <p>
+    <p style="color:blue;">
       Here is some text.
+    </p>
+    <p>
+      Here is some more text.
     </p>
   </body>
 </html>
